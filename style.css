@@ -10,9 +10,9 @@ body{
 }
 main{
     background-color: #1F2937;
-    height: 400px;
-    width: 500px;
-    margin-top: 70px;
+    height: 420px;
+    width: 600px;
+    margin-top:200px;
 
 }
 h1{
@@ -39,12 +39,13 @@ h4{
 
 button{
     background-color: #49D983;
-    padding: 5px 10px;
+    padding: 10px 15px;
     border: none;
     border-radius: 5px;
     color: white;
     margin-left: 30px;
     margin-top: 20px;
+    font-size: 20px;
 }
 
 hr{
